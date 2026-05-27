@@ -8,7 +8,7 @@ Building production-ready full-stack applications with scalable backend architec
 
 [Portfolio](https://portfolio-pawanx.vercel.app) •
 [LinkedIn](https://www.linkedin.com/in/pawan-mishra-08b3b9133/) •
-[Email](mailto:pawanmishra196@gmail.com)
+[Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=pawanmishra196@gmail.com)
 
 </div>
 
