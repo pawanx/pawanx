@@ -107,11 +107,8 @@ Real-time messaging platform with live presence tracking.
 
 ## 🌱 Currently Learning
 
-- Advanced FastAPI
-- System Design
-- Docker
-- Redis
-- Scalable backend architecture
+- Building scalable backend systems using Docker, Redis caching, and production-grade FastAPI architecture.
+- Exploring LLMs.
 
 ---
 
