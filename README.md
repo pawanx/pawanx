@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | MERN | FastAPI | SQL
 
-Building scalable web applications, backend systems, and real-time platforms.
+Building production-ready full-stack applications with scalable backend architecture and modern user experiences.
 
 [Portfolio](https://portfolio-pawanx.vercel.app) •
 [LinkedIn](https://www.linkedin.com/in/pawan-mishra-08b3b9133/) •
