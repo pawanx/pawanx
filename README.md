@@ -44,7 +44,7 @@ I specialize in:
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=sql)
 
 ### Tools
 Git • GitHub • Postman • Jira • SVN • Vercel • Render
