@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Hi, I'm Pawan Mishra 👋
 
-<!--
-**pawanx/pawanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | MERN | FastAPI | PostgreSQL
 
-Here are some ideas to get you started:
+Building scalable web apps with clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React, Bootstrap
+- Backend: Node.js, Express, FastAPI
+- Database: MongoDB, PostgreSQL
+- Tools: Git, Postman, Vercel
+
+## Featured Projects
+### KaviosPix
+Photo management app with Cloudinary + JWT
+
+### WorkAsana
+Project/task management platform
+
+### ChatApp
+Real-time messaging using WebSockets
+
+## Connect
+Portfolio: [your-link](https://portfolio-pawanx.vercel.app/)  
+LinkedIn: your-link
