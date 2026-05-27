@@ -23,4 +23,4 @@ Real-time messaging using WebSockets
 
 ## Connect
 Portfolio: [Personal Website](https://portfolio-pawanx.vercel.app/)  
-LinkedIn: [LinkedIn Profile]https://www.linkedin.com/in/pawan-mishra-08b3b9133/
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pawan-mishra-08b3b9133/)
