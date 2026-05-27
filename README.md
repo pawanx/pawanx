@@ -108,7 +108,7 @@ Real-time messaging platform with live presence tracking.
 ## 🌱 Currently Learning
 
 - Building scalable backend systems using Docker, Redis caching, and production-grade FastAPI architecture.
-- Exploring LLMs.
+- Building AI-powered applications with LLM integrations
 
 ---
 
