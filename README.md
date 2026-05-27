@@ -117,5 +117,5 @@ Real-time messaging platform with live presence tracking.
 ## 📫 Let's Connect
 
 - Portfolio: [My Portfolio Website](https://portfolio-pawanx.vercel.app)
-- Email: [Click here to get in touch](mailto:pawanmishra196@gmail.com)
+- Email: [Get in touch to hire or collaborate](https://mail.google.com/mail/?view=cm&fs=1&to=pawanmishra196@gmail.com)
 - LinkedIn: [Verified LinkedIn Profile](https://www.linkedin.com/in/pawan-mishra-08b3b9133/)
