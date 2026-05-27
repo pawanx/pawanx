@@ -103,6 +103,8 @@ Real-time messaging platform with live presence tracking.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanx&theme=tokyonight" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanx&theme=tokyonight" />
+
 ---
 
 ## 🌱 Currently Learning
