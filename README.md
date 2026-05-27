@@ -92,11 +92,10 @@ Real-time messaging platform with live presence tracking.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawanx&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanx&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanx&theme=tokyonight" />
 
 ---
 
