@@ -22,5 +22,5 @@ Project/task management platform
 Real-time messaging using WebSockets
 
 ## Connect
-Portfolio: [your-link](https://portfolio-pawanx.vercel.app/)  
-LinkedIn: your-link
+Portfolio: [Personal Website](https://portfolio-pawanx.vercel.app/)  
+LinkedIn: https://www.linkedin.com/in/pawan-mishra-08b3b9133/
