@@ -58,6 +58,8 @@ Photo management platform with secure authentication and Cloudinary media hostin
 
 **Tech:** React, Node.js, MongoDB, JWT, Cloudinary
 
+[Live Demo](https://kavios-pix-frontend-one.vercel.app/) | [Source Code](https://github.com/pawanx/KaviosPix-Frontend)
+
 ![Home](./assets/kavios_pix_dash.jpg)
 
 ---
@@ -67,6 +69,8 @@ Project and task management platform with collaborative workflows.
 
 **Tech:** MERN, JWT Authentication
 
+[Live Demo](https://workasana-frontend-ashy.vercel.app/) | [Source Code](https://github.com/pawanx/Workasana-Frontend)
+
 ![Dashboard](./assets/workasana_dash.jpg)
 
 ---
@@ -75,6 +79,8 @@ Project and task management platform with collaborative workflows.
 Real-time messaging platform with live presence tracking.
 
 **Tech:** MERN, WebSockets
+
+[Live Demo](https://chat-app-frontend-jd6g.vercel.app/) | [Source Code](https://github.com/pawanx/Chat-App-Frontend)
 
 ![Chat_Page](./assets/chatapp_home.jpg)
 
