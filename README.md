@@ -76,7 +76,7 @@ Real-time messaging platform with live presence tracking.
 
 **Tech:** MERN, WebSockets
 
-![Chat_Page](./assets//chatapp_home.jpg)
+![Chat_Page](./assets/chatapp_home.jpg)
 
 ---
 
