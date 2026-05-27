@@ -2,7 +2,7 @@
 
 # Hi, I'm Pawan Mishra 👋
 
-### Full Stack Developer | MERN | FastAPI | PostgreSQL
+### Full Stack Developer | MERN | FastAPI | SQL
 
 Building scalable web applications, backend systems, and real-time platforms.
 
@@ -23,7 +23,7 @@ I specialize in:
 - Building scalable MERN stack applications
 - Designing REST APIs with FastAPI & Express
 - Real-time systems with WebSockets
-- Database-driven platforms using MongoDB & PostgreSQL
+- Database-driven platforms using MongoDB & SQL
 - Clean architecture & maintainable backend systems
 
 ---
@@ -44,7 +44,7 @@ I specialize in:
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 
 ### Tools
 Git • GitHub • Postman • Jira • SVN • Vercel • Render
