@@ -106,6 +106,6 @@ Real-time messaging platform with live presence tracking.
 
 ## 📫 Let's Connect
 
-- Portfolio: https://portfolio-pawanx.vercel.app
-- Email: pawanmishra196@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pawan-mishra-08b3b9133/
+- Portfolio: [My Portfolio Website](https://portfolio-pawanx.vercel.app)
+- Email: [Click here to get in touch.](pawanmishra196@gmail.com)
+- LinkedIn: [Verified LinedIn Profile](https://www.linkedin.com/in/pawan-mishra-08b3b9133/)
