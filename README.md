@@ -58,6 +58,8 @@ Photo management platform with secure authentication and Cloudinary media hostin
 
 **Tech:** React, Node.js, MongoDB, JWT, Cloudinary
 
+![Home](./assets/kavios_pix_dash.jpg)
+
 ---
 
 ### 📌 WorkAsana
@@ -65,12 +67,16 @@ Project and task management platform with collaborative workflows.
 
 **Tech:** MERN, JWT Authentication
 
+![Dashboard](./assets/workasana_dash.jpg)
+
 ---
 
 ### 💬 Chat App
 Real-time messaging platform with live presence tracking.
 
 **Tech:** MERN, WebSockets
+
+![Chat_Page](./assets//chatapp_home.jpg)
 
 ---
 
